@@ -1,1 +1,1 @@
-run\bin\java.exe main
+java main
